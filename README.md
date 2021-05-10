@@ -32,3 +32,19 @@ se referem à expressões genéticas e as nomeadas com *c* se referem a linhagen
 celulares nos quais foram testados os fármacos.
 
 :link: [Acesse o notebook da aula 02](https://github.com/claudineipereira/alura-imersaodados3/blob/main/aula2.ipynb)
+
+## Aula 03:  Aula 3: Correlações, causalidade e relações entre genes
+
+
+Nesta aula aprendemos a gerar tabelas de frequência utilizando tanto as 
+funções *crosstab* quando *groupby*. Aprendemos, também a plotar gráficos de 
+dispersão e de regressão linear com as funções do Seaborn *scatterplot* e 
+*lmplot*, respectivamente.
+
+Além disso, pudemos demonstrar a correlação entre expressões gênicas e 
+tipos celulares por meio de um mapa de calor, fornecido pela função 
+*heatmap* do Seaborn, que mostra correlações diretamente e inversamente 
+proporcionais.
+
+:link: [Acesse o notebook da aula 03](https://github.com/claudineipereira/alura-imersaodados3/blob/main/aula3.ipynb)
+:link: [Visualização aprimorada do notebook da aula 03](https://nbviewer.jupyter.org/github/claudineipereira/alura-imersaodados3/blob/3518d5142ff6fec5708dbf67bb2e68abf9062193/aula3.ipynb)
