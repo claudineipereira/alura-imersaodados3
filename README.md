@@ -47,4 +47,5 @@ tipos celulares por meio de um mapa de calor, fornecido pela função
 proporcionais.
 
 :link: [Acesse o notebook da aula 03](https://github.com/claudineipereira/alura-imersaodados3/blob/main/aula3.ipynb)
+
 :link: [Visualização aprimorada do notebook da aula 03](https://nbviewer.jupyter.org/github/claudineipereira/alura-imersaodados3/blob/3518d5142ff6fec5708dbf67bb2e68abf9062193/aula3.ipynb)
